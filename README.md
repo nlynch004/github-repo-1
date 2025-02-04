@@ -1,2 +1,4 @@
 # GitHub Repo
-New setup and RM file
+New setup and README.md file. 
+
+Pending
